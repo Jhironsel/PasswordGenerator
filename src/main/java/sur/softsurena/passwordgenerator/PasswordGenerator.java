@@ -11,7 +11,7 @@ public class PasswordGenerator {
 
     public static void main(String[] args) {
         int length = 13; // Longitud de cada contraseña
-        int count = 100000000; // Cantidad de contraseñas a generar
+        int count = 10000000; // Cantidad de contraseñas a generar
         String fileName = "diccionario"; // Nombre del archivo para guardar las contraseñas
 
         generatePasswords(length, count, fileName);
