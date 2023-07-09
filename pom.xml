@@ -12,3 +12,28 @@
         <exec.mainClass>sur.softsurena.passwordgenerator.PasswordGenerator</exec.mainClass>
     </properties>
 </project>
+
+<!---
+
+git clone https://github.com/Jhironsel/PasswordGenerator.git
+
+
+Compila y descarga 
+mvn install
+Solo Compila
+mvn compile
+Correrlo
+mvn exec:java -Dexec.mainClass="sur.softsurena.passwordgenerator.PasswordGenerator"
+
+Cambiar 
+<maven.compiler.source>1.8</maven.compiler.source>
+<maven.compiler.target>1.8</maven.compiler.target>
+
+Descargar Maven para windows
+Descargar aircrack-ng
+
+
+
+-->
+
+
