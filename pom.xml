@@ -14,26 +14,17 @@
 </project>
 
 <!---
-
-git clone https://github.com/Jhironsel/PasswordGenerator.git
-
-
 Compila y descarga 
 mvn install
 Solo Compila
 mvn compile
 Correrlo
-mvn exec:java -Dexec.mainClass="sur.softsurena.passwordgenerator.PasswordGenerator"
+mvn exec:java -Dexec.mainClass='sur.softsurena.passwordgenerator.PasswordGenerator'
 
-Cambiar 
-<maven.compiler.source>1.8</maven.compiler.source>
-<maven.compiler.target>1.8</maven.compiler.target>
+		HandCheck Victima
+aircrack-ng -b 64:6D:6C:90:6D:88 -w diccionario vecino-01.cap -N session
 
-Descargar Maven para windows
-Descargar aircrack-ng
-
-
-
+aircrack-ng -R session
 -->
 
 
