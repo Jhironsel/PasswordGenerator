@@ -1,9 +1,0 @@
-
-BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
-64:6D:6C:90:6D:88, 2023-07-08 07:05:25, 2023-07-08 07:18:32,  1, 130, WPA2, CCMP TKIP, PSK, -60,     6679,    31255,   0.  0.  0.  0,   9, CLEAR6D7F, 
-
-Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
-EC:3C:BB:B5:E7:41, 2023-07-08 07:05:37, 2023-07-08 07:18:25, -87,    32531, 64:6D:6C:90:6D:88,CLEAR6D7F
-02:FC:97:5B:88:26, 2023-07-08 07:05:53, 2023-07-08 07:18:32, -71,      496, 64:6D:6C:90:6D:88,
-0A:E2:BB:30:22:9A, 2023-07-08 07:05:47, 2023-07-08 07:18:15, -68,      357, 64:6D:6C:90:6D:88,
-

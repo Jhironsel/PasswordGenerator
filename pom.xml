@@ -11,6 +11,14 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <exec.mainClass>sur.softsurena.passwordgenerator.PasswordGenerator</exec.mainClass>
     </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.firebirdsql.jdbc</groupId>
+            <artifactId>jaybird</artifactId>
+            <version>5.0.2.java11</version>
+        </dependency>
+    </dependencies>
+    
 </project>
 
 <!---
